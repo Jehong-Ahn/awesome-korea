@@ -1,3 +1,5 @@
+[![awesome-korea](https://img.shields.io/badge/awesome-korea-red.svg)](https://github.com/Jehong-Ahn/awesome-korea)
+
 한국어로 된 Git 컨텐츠를 모아봅니다.
 
 ## 블로그
