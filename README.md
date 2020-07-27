@@ -1,4 +1,4 @@
-한국어로 된 Github 레포를 모으고 있습니다.
+한국어로 된 Git 컨텐츠를 모아봅니다.
 
 ## 블로그
 - [sarojaba/awesome-devblog](https://github.com/sarojaba/awesome-devblog) ![GitHub watchers](https://img.shields.io/github/watchers/sarojaba/awesome-devblog?style=social): 국내 개발 블로그 모음(only 실명으로)
@@ -11,8 +11,12 @@
 ## 기술블로그/ 기술면접
 - [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) ![GitHub watchers](https://img.shields.io/github/watchers/JaeYeopHan/Interview_Question_for_Beginner?style=social): 기술 면접 준비
 - [Integerous/goQuality-dev-contents](https://github.com/Integerous/goQuality-dev-contents) ![GitHub watchers](https://img.shields.io/github/watchers/Integerous/goQuality-dev-contents?style=social): 고퀄리티 개발 컨텐츠 모음
+- [WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview) ![GitHub watchers](https://img.shields.io/github/watchers/WeareSoft/tech-interview?style=social): 기술 면접 대비
 - [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) ![GitHub watchers](https://img.shields.io/github/watchers/gyoogle/tech-interview-for-developer?style=social): 신입 개발자 전공 지식 & 기술 면접 백과사전
 - [ClintJang/ios-swift-objc-questions-and-answers](https://github.com/ClintJang/ios-swift-objc-questions-and-answers) ![GitHub watchers](https://img.shields.io/github/watchers/ClintJang/ios-swift-objc-questions-and-answers?style=social): iOS (swift, objc)개발을 하면서 알게된 질문과 답변 모음
 - [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions) ![GitHub watchers](https://img.shields.io/github/watchers/JeaSungLEE/iOSInterviewquestions?style=social): iOS 면접에 나올 질문들 총 정리
 
-
+## 스터디그룹
+- [yeomju311/algorithm-study](https://github.com/yeomju311/algorithm-study)
+- [Java-Bom/ReadingRecord](https://github.com/Java-Bom/ReadingRecord)
+- [gyoogle/YAPP_Algorithm](https://github.com/gyoogle/YAPP_Algorithm) 2020-04-06
